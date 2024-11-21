@@ -28,6 +28,11 @@
 
 ---
 
+![snake gif](https://github.com/KledEatsTacos/KledEatsTacos/blob/output/github-snake-dark.svg)
+
+
+---
+
 ### 🤔 **FAQ**:
 **Q: How many languages do you know?**  
 A: Arabic (Native), English (Fluent), and Turkish (Advanced).
