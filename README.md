@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student @ Sakarya University
-- 🛠️ Currently sharpening skills in **C++**
+- 🛠️ Currently sharpening skills in **C++, SQL**
 - 🎯 Always ready to do whatever it takes to achieve my goals
 
 ---
