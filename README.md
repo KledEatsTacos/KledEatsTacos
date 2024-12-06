@@ -39,7 +39,7 @@
 A: Arabic (Native), English (Fluent), and Turkish (Advanced).
 
 **Q: Okay, but how many PROGRAMMING languages do you know?**  
-A: I know C++, C#, HTML5, CSS3, and JavaScript. In addition, I have some experience with Vue.js and Nuxt.js.
+A: Refer to the Languages and Tools section.
 
 **Q: How did you come up with your username?**  
 A: For some reason, 14-year-old me came up with it, and since that day, I’ve been using it. Now all my internet (and some real-life) friends know me as Taco. And no, I won’t change it.
