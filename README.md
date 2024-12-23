@@ -35,15 +35,15 @@
 ---
 
 ### 🤔 **FAQ**:
-**Q: How many languages do you know?**  
-A: Arabic (Native), English (Fluent), and Turkish (Advanced).
 
-**Q: Okay, but how many PROGRAMMING languages do you know?**  
-A: Refer to the Languages and Tools section.
+**Q: Why did you choose computer engineering as your career?**
+A: My dad introduced me to computers when I was a child, and ever since then I was in love with anything related to computers, and I believe it is the future.
 
-**Q: How did you come up with your username?**  
-A: For some reason, 14-year-old me came up with it, and since that day, I’ve been using it. Now all my internet (and some real-life) friends know me as Taco. And no, I won’t change it.
+**Q: Why do you use GitHub so often?**
+A: Because it's a fun hobby for me and lots of people can find many uses for the things I share here.
 
----
+**Q: Why does everyone call you Taco?**  
+A: Because it's a nice name, and I like tacos.
+
 
 
