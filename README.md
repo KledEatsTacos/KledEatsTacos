@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student @ Sakarya University
-- 🛠️ Currently sharpening skills in **C++, Nuxt.js**
+- 🛠️ Currently sharpening skills in **C++, Nuxt.js**, learning **Unity**
 - 🎯 Always ready to do whatever it takes to achieve my goals
 
 ---
@@ -37,8 +37,5 @@
 
 ### 🤔 **FAQ**:
 
-**Q: Why does everyone call you Taco?**<br>
+**Q: Why does everyone call you Taco?** <br>
 A: Because it's a nice name, and I like tacos.
-
-
-
