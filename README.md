@@ -18,7 +18,7 @@
 ---
 
 ### 🌐 **Social Links**:
-- [LinkedIn](www.linkedin.com/in/mustafamasri180) – Let’s connect!  
+- [LinkedIn](https://www.linkedin.com/in/mustafa-m-a4238b226/) – Let’s connect!  
 - [Website](https://www.kledeatstacos.com) – Constantly being updated!
 - 📧 **Email**: [mustafamasri180@gmail.com](mailto:mustafamasri180@gmail.com) – Ask about anything!
 
