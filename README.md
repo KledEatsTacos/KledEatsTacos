@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Mustafa Masri</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kledeatstacos)
+
 
 
 ### 🚀 About Me:
