@@ -46,5 +46,5 @@
 
 ### 🤔 **FAQ**:
 
-**Q: Why does everyone call you Taco?** <br>
-A: Because it's a nice name, and I like tacos.
+**Q: What's your most hated language?** <br>
+A: Javascript. I hate it with a deep passion, it's like i am writing code with crayons. Wouldn't even let AI write Javascript code for me out of fear it may become stupid.
