@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Mustafa Masri</h1>
 
-![](https://my-view-counter.vercel.app/count?_=${Date.now()})
-![Profile views](https://my-view-counter.vercel.app/badge?_=${Date.now()})
+![](http://my-view-counter.vercel.app/count?_=1740785301935)
+![Profile views](http://my-view-counter.vercel.app/badge?_=1740785301935)
 
 
 ### 🚀 About Me:
