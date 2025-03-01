@@ -6,7 +6,7 @@
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student @ Sakarya University
 - 🛠️ Currently learning **C, Java**. Also learning **Godot** and **GDScript**.
-- 🎯 Always working on achieving my goals, also working on NOT losing it because nothing is working as expected D:
+- 🎯 Always working on achieving my goals
 
 ---
 
@@ -49,4 +49,5 @@
 ### 🤔 **FAQ**:
 
 **Q: What's your most hated language?** <br>
-A: JavaScript. A thousand words are not enough to describe the deep hate I have for it. It's like i am writing code with crayons. I wouldn't even let AI write JavaScript code for me out of fear it may become stupid.
+A: JavaScript. A thousand words are not enough to describe the deep hate I have for it. It's like i am writing code with crayons. I wouldn't even let AI write JavaScript code for me out of fear for it.
+Seriously, I just simply cannot express the amount of hate I have for this thing. I'd rather watch paint dry on a wall rather than deal with this dumpster on fire.
