@@ -6,7 +6,7 @@
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student @ Sakarya University
 - 🛠️ Currently learning **C, Java**. Also learning **Godot** and **GDScript**.
-- 🎯 Always working on achieving my goals
+- 🎯 Always working on achieving my goals, also working on NOT losing it because nothing is working as expected D:
 
 ---
 
