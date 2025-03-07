@@ -38,16 +38,3 @@
 ### 📈 Some GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kledeatstacos&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kledeatstacos&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-![snake gif](https://github.com/KledEatsTacos/KledEatsTacos/blob/output/github-snake-dark.svg)
-
-
----
-
-### 🤔 **FAQ**:
-
-**Q: What's your most hated language?** <br>
-A: JavaScript. A thousand words are not enough to describe the deep hate I have for it. It's like i am writing code with crayons. I wouldn't even let AI write JavaScript code for me out of fear for it.
-Seriously, I just simply cannot express the amount of hate I have for this thing. I'd rather watch paint dry on a wall rather than deal with this dumpster on fire.
