@@ -1,12 +1,19 @@
-<h1 align="center">Hey! I'm Mustafa Masri</h1>
+<h1 align="center">Hey! looks like you stumbled upon my profile!</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kledeatstacos)
 
 
 ### 🚀 About Me:
-- 🖥️ Computer Engineering student @ Sakarya University
+- 🖥️ Computer Engineering student at [Sakarya University](https://en.wikipedia.org/wiki/Sakarya_University)
 - 🛠️ Currently learning **C, Java**.
-- 🎯 Always working on achieving my goals
+- 🎯 Always working on achieving my goals (Kinda)
+
+---
+
+### Goals:
+- [ ] Solved world hunger
+- [ ] Cured cancer
+- [x] Learned how to use checked boxes on GitHub
 
 ---
 
