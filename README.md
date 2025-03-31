@@ -13,7 +13,7 @@
 ### Goals:
 - [ ] Solved world hunger
 - [ ] Cured cancer
-- [ ] Became a millionaire
+- [ ] Won an Oscar
 - [x] Learned how to use checked boxes on GitHub
 
 ---
