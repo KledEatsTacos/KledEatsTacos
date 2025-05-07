@@ -1,4 +1,4 @@
-<h1 align="center">Hey! looks like you stumbled upon my profile!</h1>
+<h1 align="center">Hey! Welcome to my profile!</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kledeatstacos)
 
@@ -6,7 +6,7 @@
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student at [Sakarya University](https://en.wikipedia.org/wiki/Sakarya_University)
 - 🛠️ Currently learning **C, Java**.
-- 🎯 Always working on achieving my goals (Kinda)
+- 🎯 Always working on achieving my goals
 
 ---
 
@@ -38,7 +38,7 @@
 
 ### 🌐 **Social Links**:
 - [LinkedIn](https://www.linkedin.com/in/mustafa-m-a4238b226/) – Let’s connect!  
-- [Website](https://www.kledeatstacos.com) – Constantly being updated! (If I feel like it...)
+- [Website](https://www.kledeatstacos.com) – A little hobby where I do fun stuff!
 - 📧 **Email**: [mustafamasri180@gmail.com](mailto:mustafamasri180@gmail.com) – Ask about anything!
 
 ---
