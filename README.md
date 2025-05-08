@@ -1,6 +1,5 @@
 <h1 align="center">Hey! Welcome to my profile!</h1>
 
-![](https://hit.yhype.me/github/profile?account_id=147157356)
 ![Profile Views](https://komarev.com/ghpvc/?username=kledeatstacos)
 
 
@@ -53,3 +52,4 @@
 ### Cool snake
 
 ![snake gif](https://github.com/KledEatsTacos/KledEatsTacos/blob/output/github-snake-dark.svg)
+![](https://hit.yhype.me/github/profile?account_id=147157356)
