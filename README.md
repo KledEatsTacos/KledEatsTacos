@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student at [Sakarya University](https://en.wikipedia.org/wiki/Sakarya_University)
-- 🛠️ Currently learning **C, Java**.
+- 🛠️ Currently learning Python
 - 🎯 Always working on achieving my goals
 
 ---
