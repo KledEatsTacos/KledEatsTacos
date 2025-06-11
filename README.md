@@ -29,6 +29,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%234FC08D.svg?style=flat-square&logo=nuxt.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/pgSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 
 
