@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student at [Sakarya University](https://en.wikipedia.org/wiki/Sakarya_University)
-- 🛠️ Currently learning **Unity** and **Godot**
+- 🛠️ Currently learning **Unity** and **Godot**, making a good game
 - 🎯 Always working on achieving my goals
 
 ---
@@ -53,3 +53,12 @@
 
 ![snake gif](https://github.com/KledEatsTacos/KledEatsTacos/blob/output/github-snake-dark.svg)
 ![](https://hit.yhype.me/github/profile?account_id=147157356)
+
+
+### 🤔 **FAQ**:
+
+**Q: Why does everyone call you Taco?** <br>
+A: Because I like tacos.
+
+**Q: Why do you have Tom as your profile picture?** <br>
+A: Because I like Tom.
