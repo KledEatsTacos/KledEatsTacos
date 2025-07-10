@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 🖥️ Computer Engineering student at [Sakarya University](https://en.wikipedia.org/wiki/Sakarya_University)
-- 🛠️ Currently learning **Unity** and **Godot**, making a good game
+- 🛠️ Currently learning **Unity** and **Godot with C#**, making a good game (I hope)
 - 🎯 Always working on achieving my goals
 
 ---
