@@ -40,11 +40,11 @@
 ### 🌐 **Social Links**:
 - [LinkedIn](https://www.linkedin.com/in/mustafa-m-a4238b226/) – Let’s connect!  
 - [Website](https://www.kledeatstacos.com) – A little hobby where I do fun stuff!
-- 📧 **Email**: [mustafamasri180@gmail.com](mailto:mustafamasri180@gmail.com) – Ask about anything!
+- 📧 **Email**: [mustafamasri180@gmail.com](mailto:mustafamasri180@gmail.com) – Ask about anything! (I typically answer within a day or two)
 
 ---
 
-### 📈 Some GitHub Stats:
+### 📈 Some GitHub stats to boost my ego:
 ![](https://github-readme-stats.vercel.app/api?username=kledeatstacos&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kledeatstacos&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
