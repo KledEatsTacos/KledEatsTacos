@@ -40,7 +40,7 @@
 ### 🌐 **Social Links**:
 - [LinkedIn](https://www.linkedin.com/in/mustafa-m-a4238b226/) – Let’s connect!  
 - [Website](https://www.kledeatstacos.com) – A little hobby where I do fun stuff!
-- 📧 **Email**: [kledeatstacos@gmail.com](mailto:kledeatstacos@gmail.com) – Ask about anything! (I typically answer within a day or two)
+- 📧 **Email**: [kledeatstacos@gmail.com](mailto:kledeatstacos@gmail.com) – Ask about anything! (except for stupid questions, please)
 
 ---
 
