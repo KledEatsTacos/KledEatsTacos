@@ -14,6 +14,7 @@
 - [ ] Solved world hunger
 - [ ] Cured cancer
 - [ ] Won an Oscar
+- [ ] Hit Master rank in League of Legends
 - [x] Learned how to use checked boxes on GitHub
 
 ---
